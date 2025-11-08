@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cesia-PMartinez/Portfolio2025.git/static/css/main.fc1d4933.css",
+    "main.js": "/Cesia-PMartinez/Portfolio2025.git/static/js/main.932a691a.js",
+    "static/js/453.6264690d.chunk.js": "/Cesia-PMartinez/Portfolio2025.git/static/js/453.6264690d.chunk.js",
+    "static/media/colorpalette.png": "/Cesia-PMartinez/Portfolio2025.git/static/media/colorpalette.eae42c04e044e59e9eb8.png",
+    "static/media/iconicme.png": "/Cesia-PMartinez/Portfolio2025.git/static/media/iconicme.7b96c4d8524e42737bec.png",
+    "static/media/healthandfuture.png": "/Cesia-PMartinez/Portfolio2025.git/static/media/healthandfuture.11191001835dbfca4cc6.png",
+    "static/media/yumfull.jpeg": "/Cesia-PMartinez/Portfolio2025.git/static/media/yumfull.78a74f9981ae0b374779.jpeg",
+    "static/media/seven.png": "/Cesia-PMartinez/Portfolio2025.git/static/media/seven.41b9d860f3b7093ffb8b.png",
+    "index.html": "/Cesia-PMartinez/Portfolio2025.git/index.html",
+    "main.fc1d4933.css.map": "/Cesia-PMartinez/Portfolio2025.git/static/css/main.fc1d4933.css.map",
+    "main.932a691a.js.map": "/Cesia-PMartinez/Portfolio2025.git/static/js/main.932a691a.js.map",
+    "453.6264690d.chunk.js.map": "/Cesia-PMartinez/Portfolio2025.git/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc1d4933.css",
+    "static/js/main.932a691a.js"
+  ]
+}
